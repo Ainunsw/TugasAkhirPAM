@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485036962895",
+    "project_id": "hotel-40292",
+    "storage_bucket": "hotel-40292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485036962895:android:37f44906ef88dd02f5e63a",
+        "android_client_info": {
+          "package_name": "com.example.hotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485036962895-olmt6cu9r8c095bqpi6oohpieknkndns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pKoXJwD2agAGY8QcwS2aCJExsRA6DBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485036962895-olmt6cu9r8c095bqpi6oohpieknkndns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
